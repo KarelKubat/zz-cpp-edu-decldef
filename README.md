@@ -1,6 +1,6 @@
 # Definition vs. Declaration
 
-When the C++ compiler comes code that calls a function, then that type or
+When the C++ compiler comes across code that calls a function, then that type or
 function must be known to the compiler in advance - otherwise, the compiler
 couldn't verify proper calling, number of parameters and so on.  That function
 must be previously **declared** to the compiler.
